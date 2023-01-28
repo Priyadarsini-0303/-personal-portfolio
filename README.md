@@ -1,1 +1,1 @@
-this is a small personal portfolio using html and css
+This is a Basic personal portfolio using html and css
